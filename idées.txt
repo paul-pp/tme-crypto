@@ -1,0 +1,1083 @@
+Essayez d'explorer les environ.  Il y a une carte (quand on sort deux fois
+à partir du local poubelle).  Commencez par aller dans le datacenter au nord-est.  Au sud-ouest
+se trouve une pièce avec de la documentation.
+
+exit
+exit
+plan
+nord
+nord
+est (datacenter)
+lire inscription
+regarder sous le clavier
+
+
+
+Inscription atelier : accélération
+Inscription en YZY avant le datacenter : 22
+inscription XXY : 13
+inscription XZZ : 24
+inscription YZZ :  13 ou 15   
+
+                                _ _     
+                               / |    | 
+                                      \ 
+                               |  _ _  |
+                                _|___   
+
+inscription zxz : 
+
+
+     |      _    _ __ | |  _   _          __ _   __     |  
+       |/ _ \ \ /     \ |         '_          | '_ \ /    |
+          __     /  _ / | |  _    |_) |             | ( |  
+     |_  __ |   / \___          | .__    \_  _ _  |_| __  |
+                                |_                         
+         ___ __   __  _   _ _  __                         
+      |  _ _        _| |   |    _    | _   _  _   _ |   __
+        |_   | |    _    |     |     '_ \ /        _  |   
+      |  _   | | | |       |   |     |_) | (_|     _    < 
+      |_    |___  __ |_   _  |_     _ _   \_  _|\   |_  _ 
+
+
+inscription poubelle : 
+         [--------REDACTED--------]
+
+
+
+inscription zxy : 
+                                                             5 6           
+                    57                                  6315             
+                 7 9  0                                 3   991            
+                79                                 68 9    8            
+              32   8   8                         5  55   47              
+         6 54  798   2 4                        3  6  5 2   8 0            
+           7 5 0762  2 6 7                      53  0  4264   2 9           
+            8  6774   7 2 5                       0 45 0 0 742 62            
+               6  1    9                       1       74  63   28           
+               03     1   2 2                399 5   4  94 7 7 8446           
+     63        5         6   2              350   82   7   0       1           
+          4 2   4439 87 18                        0 8  9     7 7  55                 
+    60     7  5   6 2134  53 5              9  0   13   4  2  4429              
+     9        16 9    8  3814               79           08 5 9                   
+    1    4            6  8         5206      2 3  5  2   34 73 07 6  3       
+   941   7 6  7 591 7 12  8    6       0 2      33        87   2 7             
+    2 50 00  6   635 9  1      92 5  634 7     0 1  00   90 2     01                 
+                                    5   394
+                              81  14 60  20
+                               595   3   4
+                                 3   1  
+
+
+                                 6     41   
+                                3 3   853    
+                               0   9 78 08  0 
+                              05   4     453   
+                               7      3 56   4  
+                                  95    7 2  7 1 
+                            0 5 67    95     6 0  
+                           18411        6 368      
+                         26 9 5    6986  75 90 67   
+                         8 5  22  4  637  9 5 00  1  
+                         369      1 3 727   63    38  
+                      2   6     39         5     9 12 2
+                          8 2        1   09573   6  
+                             3  78  3 4  6  6   
+
+
+
+inscription xxx : 
+                              _  _    _   
+                              ___     /_  
+                               __    '_ \ 
+                              / _ /   _   
+                             | _  _  ___  
+
+
+
+
+Vous arrivez dans ce qui est manifestement une salle serveur.  Tout est éteint
+et silencieux.  Il y a de l'éclairage de secours et vous distinguez des dizaines
+de racks.  Ils ont un système de fermeture donc vous ne pouvez pas accéder aux 
+serveurs qu'ils contiennent.  L'un d'entre eux attire particulièrement votre 
+attention.  Il y a aussi un bureau dans un coin.
+
+
+Essayez de vous connecter au terminal.  N'oubliez pas de regarder
+le mode d'emploi, de lire l'inscription au mur et de jeter un coup
+d'oeil sous le clavier...  Sachez enfin qu'il y a de la documentation
+dans une autre pièce qui se trouve globalement au sud-ouest.
+
+
+POST-IT PASSWORD sur le mur au datacenter: ISECR0XX
+
+post-it clavier : U2FsdGVkX1/PqMju8jHsLbrm2hYBIukOzyGgBTK50ETxm6vde+w5uwR3gxZmMfBo
+W+7+ZxLbUrsZmiv/rFxFpg==
+
+En désespoir de cause, il est recommandé de chiffrer
+les mots de passe sur les post-it sous les clavier.  Ce serait mieux que rien.
+
+
+
+
+récupération de la sauvegarde : 
+    terminal
+
+    Vous entendez un bruit électrique derrière vous.
+
+    La machine bizarre qui se trouve au milieu de la pièce est maintenant sous tension !
+
+                                                            Process complete --- shutdown                                                         
+
+    Vous entendez la machine s'éteindre.
+
+    Vous vous demandez à quoi elle sert vraiment.  En attendant, quelque chose a l'air
+    légèrement différent, mais vous ne parvenez pas à mettre le doigt dessus.
+
+
+
+trappe :
+>>> interrupteur
+vous actionnez l'interrupteur mais ça n'a aucun effet.  Panne de courant ?
+
+[ba946b29aef9fe0ba0c538d523e62f39] est-ce que quelqu'un à une clé carré dans son SAS ?
+
+
+
+local service 3 : 
+    local avec un terminal qui permet de faire :
+            1. Manage ID card
+            2. Public Key Infrastructure
+            3. Locksmith Tools
+            4. Exit
+
+
+local electrique :
+    terminal : upload a public key from a terminal (local service)
+
+pki_tutorial : 
+            1. Read the openssl documentation manual
+            2. Fetch the public key of user "pki_tutorial"
+            3. Encrypt the string "I got it!" with this public-key
+            4. Submit the (hex-encoded) ciphertext below
+
+
+
+Depuis le menu du terminal, on peut générer une public key à partir de l'option 0 du menu en mettant le user pki_tutorial :
+
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu2cFcstY766VALD3ZrYm
+NLFagc2Va/R7m9Aa//NkSBYLo58I2NNndcmbnfCkX1IwvZlvFtHSitttpVIpLlv8
+Ce7MKa4lF3NHS5t7DZ4TRI/N0VnjsaX8rvmRRmLOd0o2J2zm8Af8SEtgBm9S1nmw
+u9dc7ZhwdgjgGJ4tyQelUaUG2v6LW9dJ583yjiR0ZfF7OBCySevPzBgvwGmbtJuQ
+9i5OzTu2uuWK9hOJy6LZWXWV+dLrjqXDAEMzSf8ULCAQUevzYgdJpucJeemLTLgn
+MYe5bNMMoVdB7g1FXuSAUmhT6WI2Mp5jLc4DFo9WKQxi7urYdGEt/Dopn8TwN1pQ
+8QIDAQAB
+-----END PUBLIC KEY-----
+
+
+
+Génération d'une paire de clefs private et public dans pair_key.pem : 
+openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:2048   
+
+
+obtention de la clé publique à partir de la paire :
+openssl pkey -in pair_key.pem -pubout 
+
+
+Local elec : 
+  You must sign a challenge with your private key.
+  The signature must be hex-encoded.
+
+  Challenge:          pence scrum rands fakes quads
+
+
+J'ai enregistré une signature sans faire exprès dans le local technique
+
+Remarque : 
+- NE PAS CONVERTIR 2 FOIS DE SUITE UNE SORTIE (PAR EX UNE SIGNATURE) EN HEXA (PAR EX AVEC L'option
+DE OpenSSL ET EN FAISANT .HEX())
+- lorsqu'on génère une "paire" de clé à partir de la doc, c'est en fait une clé privée qu'on génère
+
+
+[12952b6b830826b2162149a4c917b1db] {
+                                       "session-key": "03d363ce17eb4e28a89f42c0f6aa1fe3fe5997c1ced1d51f66e601b86886aad6bc8ed76a8fea4eccb22ca7cf383c0ee820010e10179e4b95246c538db3721faf60c07f24b097a6397c35d515ffc74e9549c7e7e7211307234fa5b087b26dbe8382d0cce9c6a95fdf01a49368e0bb351325713559866936d6cc7c2e59e85962c48fb31b248d4bc2ccef6fda93c3ef218829644e1dcbc354b036d99dd716f0f96a77cad18ed9716f5df450cec8679402eb2b5f065153e2f01312ca24461ebaa9f65b413c4d750d069de331c269fa194a39a1952b4a53957eee5497c4062e7035e3057160bc13225a9d32a5f7f36ab623dea84711cea4b5bd6e87e183f46aed54e0",
+                                       "ciphertext": "U2FsdGVkX1/cYsAHCSuBSk/nUuDBroM/LRTZBR+7Ihc=\n"
+                                   }
+
+
+
+
+Vous entendez un bruit électrique derrière vous.
+
+La machine bizarre qui se trouve au milieu de la pièce est maintenant sous tension !
+
+
+
+Vous ne reconnaissez plus la pièce où vous étiez.
+
+En fait, vous avez été téléporté ! Incroyable !
+
+Vous êtes dans une rotonde. Maintenant on distingue bien l'inscription sur le
+mur :  
+                                _ ____  
+                               / | ___| 
+                               | |___  \ 
+                               | |___) |
+                               |_|____/ 
+Trois portes conduisent au nord, au sud et à l'est.
+
+Ici se trouve une baie vitrée.
+Ici se trouve un ascenseur.
+
+
+Apparemment on peut péter la baie vitrée avec un extincteur, puis jouer à pac man dans la réserve
+
+conseil ascenceur
+Il n'y a pas de ASCENCEUR
+On y voit mieux maintenant.  Essayez de revenir sur vos pas à la recherche d'une sortie.
+
+Pour trouver la sortie : 
+  casser baie extincteur
+
+Après les drones tueurs
+
+Salle tme : 
+  conseil poste informatique #1
+  Pour que g puisse être d'ordre q, il faut que p-1 soit un multiple de q.
+  Il faut donc fabriquer p en vérifiant que
+          1 + q*(nombre aléatoire pair de la bonne taille)
+  est bien un nombre premier.
+
+  conseil poste informatique #2
+  Il est facile de trouver un g qui marche... si on dispose de la factorisation
+  de p-1.  Le problème principal consiste donc à produire un nombre premier p 
+  tout en connaissant la factorisation de p-1.  La seule procédure envisageable 
+  consiste à produire des nombres X de la bonne taille dont la factorisation est 
+  connue, puis à tester si X+1 est premier.
+
+
+lire cambridge :
+  C'est un post-it qui dit : "le dictionnaire est trop gros pour être livré
+  par les drones bibliothécaires ; une édition électronique est disponible
+  sur le web à l'adresse : https://m1.tme-crypto.fr/words".
+
+But : 
+Commencez par aller dans le labo qui est au nord-ouest.
+
+commande pour rentrer dans le labo :
+entrer labo
+
+Dans le labo :
+  lire poster
+  Il s'agit d'une affiche de propagande à destination du grand public qui
+  visiterait le labo et qui s'intéresserait au terminal juste à côté.
+        
+        "ce dispositif innovant communique grâce à la téléportation
+        d'information quantique --- il est relié directement à nos 
+        dispositifs de pointe installés au sous-sol.  Si des dimensions 
+        parallèles existaient, les modèles actuels de la physique 
+        prédisent qu'on pourrait communiquer avec grâce à ce procédé !".
+
+
+  RC-13 : 
+  post it : 
+        vienna5, combien de fois t'ai-je dit de ne pas choisir ton mot de passe
+        dans le Cambridge English Dictionary ? Tu n'apprends jamais rien !
+        Comment je suis censé faire respecter une politique de securité, moi, tu y penses ?
+        ---
+        L'administrateur système
+  feillet : 
+        Une feuille A4, 80g/m².  Un utilisateur a imprimé dessus une trace du protocole 
+        d'authentification CHAP.  Peut-être qu'il essayait de mettre au point un client
+        personnalisé pour se connecter ? Il y a écrit :
+        ---> {"jsonrpc": "2.0", "method": "protagonist.CHAP-challenge", "params": {"world_id": "2e827aee9fa8fd6fe4256ce168b26d54", "username": "vienna5"}, "id": 54}
+        <--- {"jsonrpc": "2.0", "result": "U2FsdGVkX1+rZ+JoD84V8HNmogZHD0gyzMirBG82fhaGgwqoebD4HXUbtawR6OS+\n", "id": 54}
+        ---> {"jsonrpc": "2.0", "method": "protagonist.CHAP-response", "params": {"world_id": "2e827aee9fa8fd6fe4256ce168b26d54", "response": "depot slomo ouzel asked tufas"}, "id": 55}
+        <--- {"jsonrpc": "2.0", "result": null, "id": 55}
+
+
+Contenu terminal vienna5 (mdp : availer):
+ Active user: vienna5
+                    Current coordinates: f68a2a11e3d3f52b64a156fb057877b9
+
+  Coordinates                       Last detected activity
+  --------------------------------  ----------------------
+  1f733a8bd038b0eb1067c5c9545ab729  2025-10-10 16:02:53
+  c165dba1c62dbdcee52841f1b9ab7d05  2025-10-10 16:02:53
+  cd470a42886513f8194c947aaacdb139  2025-10-10 16:02:53
+  2d030acd75bd1bf1560cf32c2fe98385  2025-10-10 16:02:53
+  f68a2a11e3d3f52b64a156fb057877b9  2025-10-10 16:02:53
+  3dcb7e504a591a6808730cac4c53c799  2025-10-10 16:02:53
+  7546b460a579c03675f05809c483c712  2025-10-10 16:02:53
+  44bd60a906c9b5e94d922ba7fa281f9a  2025-10-10 16:02:53
+  cd53b12bbbfd7738c4705022ce542d71  2025-10-10 16:02:53
+  51da6698a2ee94a8b26824d841a5bc93  2025-10-10 16:02:52
+  498605375fc173c51d758a807a4a6b8c  2025-10-10 16:02:52
+  edabb0fd4b0c4bf61f37bc70fa56e7b1  2025-10-10 16:02:52
+  f5283b1eac37d073aa4d5a2d0f7f17e4  2025-10-10 16:02:52
+  63cd734ebfd7b982333eb7747b965236  2025-10-10 16:02:52
+  86c77207395df8fbcfade90a6cee2358  2025-10-10 16:02:52
+  871e2531e9683d394a60eefdadd3b7d9  2025-10-10 16:02:52
+  47852e7e12e61f8fd23405836562e9bd  2025-10-10 16:02:52
+  126f7480073e7cdf7a5c34bab6507ffc  2025-10-10 16:02:52
+  d228856634880a374f7db8eaba727681  2025-10-10 16:02:52
+  8ff8b2465a0e012b4eeb2e327979e2d3  2025-10-10 16:02:51
+  379b602d48bd7494866bbd4e5e91a6f0  2025-10-10 16:02:51
+  aa2eca9f1f409fb414e4e3baf27ccdd1  2025-10-10 16:02:51
+  32ab77848ca4af022d857d2198915312  2025-10-10 16:02:51
+  04d8af7b80cf74e312a8444eaf457f0f  2025-10-10 16:02:51
+  876a477cab822a6104705d7328e241c0  2025-10-10 16:02:51
+  2c0aab35c6da1221f5004a687514cb18  2025-10-10 16:02:51
+  f46152c007ce73285ce0e7e870f50b51  2025-10-10 16:02:50
+  61286b34e3d369d757bbce35a637c1d1  2025-10-10 16:02:50
+  8d1138879c28464ae347a3d1b73889c1  2025-10-10 16:02:50
+  43a9ff136bfe3604a2cd4836875695d1  2025-10-10 16:02:50
+  7c7cc7ff4fa9c1eff81d4ca2011c3eab  2025-10-10 16:02:50
+  b30300d3e08f56aedf4d8c128f75b8d2  2025-10-10 16:02:50
+  2f756b254fc310c80dca76e6bb1d94fa  2025-10-10 16:02:50
+  706bf59408800df2d9382b7776902af5  2025-10-10 16:02:50
+  3b75a7dd6662ca611f389f932c02d5d4  2025-10-10 16:02:50
+  e91cdff9c3ddf1a09acfc79d5f91764a  2025-10-10 16:02:49
+  a0fbeca9cfef49ea2732ade8f60b78b7  2025-10-10 16:02:49
+  e077d540e1d10c803995beadee192baf  2025-10-10 16:02:49
+  daf555fdcc37b38bc57f9addca431741  2025-10-10 16:02:49
+  db75ed3b34c012ad17974772a76a56a1  2025-10-10 16:02:48
+  c4de744a1638f22ba9b1a3ca151c4aca  2025-10-10 16:02:48
+  *** ?
+  (type ? for help)
+  Command                             Description
+  -------------------------           --------------------------------------------
+  [coordinate]                        send a message to this world
+  broadcast                           send a message to all reachable worlds
+  quit / exit                         quit
+
+        
+
+A UN MOMENT ON CHERCHERA UN MDP et celui-ci sera un des mots du document .txt cambridge_words
+
+EN tour 32 on a :
+Sur une porte fermée, un panneau
+proclame : "Accès interdit sans autorisation" et "Si vous devez intervenir 
+SEUL à l'intérieur de cette salle EQUIPEZ-VOUS de l'emetteur d'alarme DATI". 
+
+
+Couloir 32-33 : 
+graffiti : The website is a LIE.
+
+
+
+Flag CICSU : 
+ouvrir lecteur avec carte
+La porte ne s'ouvre pas. Une lumière rouge est allumée sur le lecteur de badge.
+Le micro-écran LCD affiche "SMART CARD CONTAINS NO DATA".
+conseil lecteur :
+Avez-vous lu la doc sur les certificats à la bibliothèque ?
+
+
+A l'INTERIEUR DU CICSU :
+
+Vous devrez trouver des "firmware update keys" ailleurs sur le campus.
+
+
+
+TME1 :
+
+conseil terminal 1
+Pour que g puisse être d'ordre q, il faut que p-1 soit un multiple de q.
+Il faut donc fabriquer p en vérifiant que
+        1 + q*(nombre aléatoire pair de la bonne taille)
+est bien un nombre premier.
+
+
+>>> conseil terminal 1
+Pour trouver g, ce qu'il ne faut PAS faire, c'est essayer des valeurs aléatoires.
+Ça n'a aucune chance de marcher.  Mais il y a un moyen simple de produire des 
+nombres qui sont d'ordre q, s'ils sont différents de 1.
+
+
+>>> conseil terminal 1
+Le truc consiste à choisir un nombre x aléatoirement, puis à calculer
+        g := x ** ((p-1) // q)     [modulo p]
+Si g == 1, recommencer (c'est très improbable).
+Sinon, on a :
+        g ** q == x ** (p-1)       [modulo p]
+               == 1                (d'après le petit théorème de Fermat)
+
+
+
+
+
+Il y a aussi les flags ds la salle tme à faire + On peut ouvrir l'atrium avec une clé de l'inventaire.
+
+
+ATRIUM : il faut réussir à ouvrir le lecteur NFC avec la carte étudiante. Pour cela il faut créer une clé publique avec la chaine de caractère +++ATRIUM+++ dedans.
+Ensuite il faut upload cette clé publique sur le terminal de service en LPNHE. Enfin, il faut signer le message qu'on nous donne au lecteur NFC quand on demande "ouvrir serrure carte"
+AVEC la clé privée assoc à la clé pub de l'atrium.
+
+
+>>> lire memento
+1. Dans le cadre de notre campagne de communication intitulée
+        "une sécurité maximale, mais avec la classe"
+   nous vous rappelons que tous les utilisateurs de ce bâtiment
+   doivent dorénavant avoir une clef publique RSA qui contient
+   la chaîne "+++ATRIUM+++".
+
+2. Cette chaîne promotionnelle doit se trouver à l'intérieur de la clef
+   publique ; en particulier, elle ne doit pas être ajoutée au bout d'une
+   clef pré-existante.  Autrement dit, ceci n'est pas autorisé :
+       -----BEGIN PUBLIC KEY-----
+       MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsHyqhsu3IxBYkCifvMrP
+       uM/uv0hfq0PHbCfrUxFYooWLm3M0rru5Q+9BKQXqBRLa9iO+Tgn8Sy9+ABz0EJVd
+       RRtatBkRj/UG3k+65UMxn5s47It+2sCXrX8TDmqPPtVa8Heo/5pqH1A/0LGj5YRo
+       8GT0/ITj40j3I+Kp/1a9qP6+5eAqvUHfpC/hro2OCBAOi4+Q8qB+Zrx3jCa1l4R4
+       0zQpvVf0nE+tjt7ZLBqlwKUnEWvVmFYJ3l/dikT9yG7s0UBOhAT8rZmwZVOluYeW
+       yuERSus5TJbN8V9XR8q1lk8o7WBxtpyJotf5l/cCdmVlL9cSaZhVx26cAEcZ496z
+       2QIDAQAB+++ATRIUM+++
+       -----END PUBLIC KEY-----
+
+3. Pour entrer dans le bâtiment ou dans les bureaux, il faut passer son
+   badge devant le lecteur NFC.  Le badge doit contenir la clef publique,
+   puis l'utilisateur doit réaliser une signature de manière interactive.
+
+4. Pour simplifier la gestion des clefs, les occupants du même bureau 
+   ont des clefs publiques RSA qui ont le même modulo (N).
+
+
+Atrium après 1er lecteur NFC : 
+
+au hall principal on a "une clef secrète RSA qui traine dans un coin": 
+username: keyphillip
+d       : 46a68642bd211bd0044ee508585d9ce4d6675852e4f52a3bc10e8d364fa835ee8492cc2e6f8981d70cebe756235ee40e5cfab3a7c010c0af816aa6b0f1a883d88a99a7f0a8a2cd785514bf8389a6fed14a18554b1d7b4d6fc0c44b9fcf893f4e484630440224ccf4e2b66e0d810b5dcf33edb5580a8fbf76a2a6d21207944ec2d37d9e35a0c4ab728801f0d8a537f85327d361ca51dae16b51b8c3c2591505e3747259f1db5f8a9a32183cd4d13c9a7b9de3158550cb68b1b0dbea61f3e862d8cb29d05956bb95c7aa4808b195335544c6520d91b2cf88741f3cc7c418e3e4d357e3afd66a6b2024afa53c98e73f0360265e14050a46e35b7812ecd8d140df01
+
+Pour ouvrir le 2e lecteur NFC : 
+>>> ouvrir serrure carte
+La porte ne s'ouvre pas. Une lumière rouge est allumée sur le lecteur de badge.
+Le micro-écran LCD affiche "Unknown public key (not allowed to enter this office)".
+
+>>> lire panonceau
+Bureau RC-07 (équipe DEV): keyphillip et jamieyoung
+
+>>> conseil serrure
+Votre carte d'étudiant doit pouvoir être lue par ce dispositif.
+
+>>> conseil serrure
+Avez-vous fouillé les environs ?  Vous allez trouver quelque chose d'utile.
+
+>>> conseil serrure
+Vous pouvez essayer avec la clef perdue par un des deux occupants.  Si ça ne
+marche pas, alors il vous faut réussir à vous faire passer pour l'AUTRE occupant.
+
+
+>>> conseil serrure
+Le ``mémento'' explique que les occupants du même bureau doivent avoir le même N.
+
+>>> conseil serrure
+Comme vous avez le d de l'un des deux, vous pouvez factoriser leur N commun.
+
+>>> conseil serrure
+(c'est dans les diapos du cours)
+
+>>> conseil serrure
+De là, vous pouvez obtenir le d de l'autre.
+
+
+
+On doit d'abord récupérer les clés publiques de keyphillip et jamieyoung à l'aide du terminal de service. 
+On se fait passer pour jamieyoung en uploadant sa clé publique SUR SON CARD ID (et pas en tant que nouvelle clé publique)
+On calcule p et q dans un premier temps à l'aide de "d" de la clé privée de keyphillip. 
+Ensuite, on calcule la clé privée de jamieyoung et on signe à sa place lorsqu'on nous demande une signature. 
+
+ATTENTION : la clé privée affichée par le terminal python est avec des \n. SI on colle cette clé directeemnt dans un fichier pem, cela ne fonctionnera pas car
+les \n ne sont pas pris en compte par openssl, il faut supprimer les \n du fichier et faire des retour à la ligne.
+
+REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE 
+REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE REMARQUE :
+IL EST INUTILE DE REFAIRE LE FLAG D 'UN LECTEUR NFC : IL SUFFIT DE FAIRE LA COMMANDE "NFC" POUR REPASSER par là
+
+
+
+
+DANS RC-07 : 
+lire firmware update key :
+Elle est écrite sur le coin d'une enveloppe.  Elle dit :
+                    firmware update key: 9fa3205803cdab36
+
+
+lire spécification journal des évènements de sécurité (partie I).
+Les évènement notables du point de vue de la sécurité sont consignés dans un
+journal par un des composants du sécurity engine.  Ces évènements ont un
+nom court (par ex. "rsa.reduction") et contiennent un UID.  Ils sont signés
+numériquement par le security engine, avec un MAC.  Une partie des
+utilisateurs appellent cela un "flag", alors que c'est tout simplement une
+                           [--------REDACTED--------]
+Les utilisateurs autorisés reçoivent en direct une notification lorsqu'une
+nouvelle entrée est ajoutée au  journal.  Périodiquement, un algorithme
+est exécuté sur le journal pour détecter des séquences d'évènements
+                           [--------REDACTED--------]
+                           [--------REDACTED--------]
+                           [--------REDACTED--------]
+Le journal alimente entre autre la base de connaissances du security engine.
+C'est le contenu de cette dernière qui sert à rendre des jugements de 
+sécurité automatiquement.  L'algorithme qui est utilisé pour cela est décrit
+                           [--------REDACTED--------]
+
+
+
+
+RC-13 : il faut faire un chiffrement hybride avec la doc disponible. On utilise la clé publique de la secrétaire.
+
+Bonjour,
+                                   
+      Je suis un programme que mon créateur à conçu pour limiter le flux entrant de
+      spam.  Conçu dans la philosophie UNIX, je ne fais qu'UNE chose, mais mais je la
+      fais bien : je laisse passer uniquement les messages qui respectent quelques
+      règles simples.
+      
+      La première de ces règles consiste à m'écrire avec la technique du chiffrement
+      hybride, ce que vous faites.  Je vous en remercie.
+      
+      Cependant, mon créateur aimerait avoir des garanties quant à l'identité de ses
+      correspondants. Par conséquent, il faudrait que vous ayiez une clef publique
+      signée par au moins deux autres utilisateurs enregistrés dans la PKI.
+      Encore une fois, si vous ne voyez pas de quoi je parle, retournez faire un tour
+      à la bibliothèque. Voici ce qui ne va pas :
+      - Votre clef publique n'a aucune signature
+      
+      Bien cordialement,
+      ---
+      e-secretary v0.4
+
+
+
+
+Flag distributeur : 
+Il y a une commande ADMIN, qui demande un mot de passe.  Vous avez ce mot
+de passe, mais chiffré par trois clef publiques différentes.  Commencez
+par récupérer puis examiner les trois clefs publiques.  Qu'on-t-elle de
+spécial ?
+
+En utilisant le théorème des restes chinois (CRT), il est possible de 
+calculer l'entier m**3 (PAS modulo n).  Partant de là, récupérer m consiste
+à calculer une racine cubique.  (m est l'encodage PKCS#1 v1.5 du mot de
+passe, donc il y a du charabia au début et le mot de passe à la fin).
+
+Calculer la racine cubique d'un nombre aussi grand (environ 2000 chiffres)
+ne peut pas se faire avec les fonctions usuelles qui travaillent sur des
+flottants avec seulement 64 bits de précision (soit ça va échouer, soit le
+résultat sera faux).  À la place, on peut utiliser la méthode de Newton,
+(cf. Wikipédia) pour le calcul des racines n-ièmes, en effectuant les 
+opérations sur des entiers (donc en faisant des divisions euclidiennes
+tout le temps).
+
+
+
+
+Flag firmaware dans le ciscu : 
+Vous devrez trouver des "firmware update keys" ailleurs sur le campus.
+
+
+
+Flag atrium pour entrer dans rc 25:
+panonceau : Salle RC-25 (équipe SÉCU) : megan77 et dylannewman
+
+Il y a des affiches annonçant des colloques de sécurité informatique,
+de petites annonces et quelques messages destinés aux utilisateurs des
+locaux.  L'un d'entre eux dit notamment :
+
+    MESSAGE IMPORTANT POUR LES UTILISATEURS DE LA SALLE RC-25
+    ---------------------------------------------------------
+
+    - megan77: 00a7f083459072de4291d6f2adaff243aa5fca351fd70f0d4b59aa1ee7c868b11d4e2bf14bd42d64453503386f53342793a8abd03882c83e27e32ab6f374b4524fc17438cc189a3c0b14eda38b2b807005ac7a2128e85d634602f189b21e4bd74afd90bb09cc364a2fdf911346bc6cc12cd91ad0615e4c67d1f2487a925f9cc951334a0f234e655077e2ef97c1706868fc7e0aee3240c6344c1ce7cc0fadec9e85124cb18129a496989640da0d2c2561c80a02818955536bc2955bc45b4551e122be7421b76eb7af42b144459fa621201a78d821e9b6700ab11c2f6c78f3e63fd2f5a25a8cb19db6ef5b4e6b4fc0fef2506f373280f4f66c5d60e9e10866b75f
+    - dylannewman: 6d0bc4a8381042458eaa7e485c7b12ee9e5a1a3dbd94eb6d42bfa56734012fa77aa97ff0474d1067eed1f3e753818f2e9b0d7068be18678529f127bac6a35b74d41e12c4125f4a7288fff5ccb9829ba135b4baaae8bca1ace8e60dc1865993240739daebe2793a3f6242c437ed6a9686d79f614b7754a92ba6b779d892f830a99b666beec32e48702da13fa3988db3a0d3863e73ec78a0a7b31d483781d7f2a11d1cc236b268a383f46874303db8216253272abfc8a5bda11868a93e54f999c3cad3ef24421989ff994ade5a0e6ef1c6fcb189cef5672b1d80b5bd36cec5b13f31507624c06452af454d714b7e32366a2de40b3a9058a6ec260cfc0d1584a678
+
+
+>>> conseil digicode
+Le panneau en liège montre un message chiffré par les deux clefs publiques.
+Ce serait sûrement utile de le déchiffrer.  Mais cette fois, aucune clef
+secrète n'est opportunément disponible.
+
+
+>>> conseil digicode
+Ceci est cepdendant possible car les deux clefs publiques ont le même N.
+
+>>> conseil digicode
+La formule magique est : ``CRT dans les exposants''.
+
+>>> conseil digicode
+En clair, cherchez une relation de Bezout u*e1 + v*e2 == 1.
+
+>>> conseil digicode
+Après, vous avez c1 == m**e1 mod N et c2 == m**e2 mod N.  Par conséquent,
+c1**u * c2**v == m**(u*e1 + v*e2) == m mod N.  Et boum.
+
+
+>>> conseil digicode
+Rappel : m**(-42) == (m**42)**(-1) == (m**(-1))**42 mod N
+
+
+
+
+
+Dans la salle RC-25 : 
+Vous êtes dans la salle de travail de l'équipe des responsable de la sécurité
+informatique.  Un vieux carton de pizza traîne dans un coin.  Il n'y a pas de
+fenêtres.
+
+Ici se trouve une spécification du journal des évènements de sécurité (partie II).
+Ici se trouve un terminal d'administration du security engine.
+
+
+
+lire spécification journal des évènements de sécurité (partie I).
+Les évènement notables du point de vue de la sécurité sont consignés dans un
+journal par un des composants du sécurity engine.  Ces évènements ont un
+nom court (par ex. "rsa.reduction") et contiennent un UID.  Ils sont signés
+numériquement par le security engine, avec un MAC.  Une partie des
+utilisateurs appellent cela un "flag", alors que c'est tout simplement une
+                           [--------REDACTED--------]
+Les utilisateurs autorisés reçoivent en direct une notification lorsqu'une
+nouvelle entrée est ajoutée au  journal.  Périodiquement, un algorithme
+est exécuté sur le journal pour détecter des séquences d'évènements
+                           [--------REDACTED--------]
+                           [--------REDACTED--------]
+                           [--------REDACTED--------]
+Le journal alimente entre autre la base de connaissances du security engine.
+C'est le contenu de cette dernière qui sert à rendre des jugements de 
+sécurité automatiquement.  L'algorithme qui est utilisé pour cela est décrit
+                           [--------REDACTED--------]
+
+
+>>> lire spécification du journal des évènements de sécurité (partie II).
+Le MAC qui accompagne chaque entrée du journal des évènements de sécurité 
+fait 256 bits.  Il se décompose en fait en 4 blocs de 64 bits chacun :
+- le premier (octets [0:8]) est obtenu en évaluant un véritable MAC. Celui-ci
+                           [--------REDACTED--------]
+- les 3 autres blocs contiennent des parts d'un secret partagé avec le 
+  système de partage de secret de Shamir.
+Plus précisément, si on note : 
+- p : le nombre 2**64 - 59 (qui est premier),
+- X : les bits [0:64] du MAC,
+- A : les bits [64:128] du MAC,
+- B : les bits [128:192] du MAC,
+- C : les bits [192:256] du MAC.
+Alors A == R(X) mod p, où R est un polynôme de degré 8 inconnu.
+Alors B == S(X) mod p, où S est un polynôme de degré 16 inconnu.
+Alors C == T(X) mod p, où T est un polynôme de degré 24 inconnu.
+Les coefficients constants de R, S et T sont des "firmware update keys", qui
+                           [--------REDACTED--------]
+Pour reconstituer ces coefficients, qui sont en fait R(0), S(0) et T(0), on
+                           [--------REDACTED--------]
+                           [--------REDACTED--------]
+
+
+>>> conseil spécification
+Ceci affirme qu'avec 9 flags, on peut fabriquer une "firmware update key",
+puis qu'avec 17 flags on peut en fabriquer une autre, etc.
+
+
+>>> conseil spécification
+Il faut donc implanter la reconstruction de partage de secret de Shamir.
+
+>>> conseil spécification
+Cela peut se faire de deux manières : soit avec les polynômes interpolateurs
+de Lagrange, soit en résolvant un système linéaire.  Dans les deux cas,
+l'utilisation d'un logiciel de calcul formel (comme SageMath) est fortement
+recommandée.  Il n'y a pas beaucoup de bibliothèques python capable de faire
+le job directement.
+
+
+
+Après avoir validé le flag firmaware, on a : 
+| Firmware updated. New command activated: ``#!sudo''. |
+
+
+
+
+Dans l'aile est de la bibliothèque des licences on a dans la spécification : 
+REMOTE PROCEDURE CALLS
+======================
+
+Les firmwares déployés sur le campus peuvent interagir avec l'infrastructure du
+réseau via des Remote Procedure Calls pour invoquer des "méthodes distances" 
+côté serveur.  De nombreux objets invoquent des méthodes distantes pour assurer
+leur fonctionnement.
+
+Certains firmwares ont des modes de mise au point qui affichent les traces
+d'exécution des méthodes distantes invoquées.
+
+L'invocation de méthodes distantes repose sur le protocole JSON-RPC version 2.0.
+
+Sur le campus, toutes les requêtes doivent être envoyées à l'adresse :
+
+	http://m1.tme-crypto.fr:8888/
+
+Il n'y a pas de catalogue global des méthodes disponibles.  Cependant, les
+méthodes suivantes peuvent être invoquées (notamment lors de la mise au point de
+clients) :
+
+- echo
+- man
+- server.status
+- server.history
+                           [--------REDACTED--------]
+                           [--------REDACTED--------]
+- world.list
+                           [--------REDACTED--------]
+
+
+Références bibliographiques
+===========================
+- https://en.wikipedia.org/wiki/Remote_procedure_call
+- https://www.jsonrpc.org/specification
+
+
+
+
+
+
+Conseils TME 3: 
+[SUDO]>>> conseil poste 4
+Sachez que ce TME est dur... (mais on ne dit pas ça pour vous décourager !)
+
+[SUDO]>>> conseil poste 4
+On ne peut pas commencer par choisir p, car alors il faudrait factoriser p-1
+pour pouvoir fournir la liste de ses facteurs, or p-1 est trop grand pour ça.
+
+
+[SUDO]>>> conseil poste 4
+Il faut faire l'inverse : commencer par produire un nombre p-1, dont on 
+connaît la factorisation, puis tester s'il est premier.  Alors, c'est 
+jackpot.  Mais attention !  Il faut aussi pouvoir produire les certificats 
+des facteurs de p-1, donc il ne faut pas les avoir produit n'importe 
+comment...
+
+
+[SUDO]>>> conseil poste 4
+Une stratégie possible est la suivante : calculer une liste p1, ..., pk de 
+facteurs premiers de petite taille (disons 20--70 bits) (notons P leur 
+produit).  L'idée consiste ensuite à examiner tous les entiers q tels que 
+a // p <= q < b // p, et à tester si :
+- q est premier
+- P*q + 1 est premier
+Quand c'est fait, il suffit alors de produire un certificat pour p1, ..., 
+pk et q.
+
+
+[SUDO]>>> conseil poste 4
+Pour que la stratégie précédente fonctionne il faut que :
+1) a // P ne soit pas trop grand (sinon, produire un certificat pour q va 
+   être vraiment dur).
+2) L'intervalle [a//P : b//P] ne soit pas trop petit (sinon il n'existera 
+   pas de q qui va satisfaire toutes les conditions).
+
+
+[SUDO]>>> conseil poste 4
+Le théorème des nombres premiers permet d'estimer la taille nécessaire 
+pour l'intervalle.  En moyenne, il faut 1.44n essais pour trouver un nombre 
+premier de n bits.  Il va donc falloir essayer environ 1500 valeurs de q 
+pour que P*q + 1 soit premier,  et si q fait moins de 100 bits, alors il 
+faut tester environ 150 valeurs de q pour en avoir une qui est première.  
+Par conséquent, l'intervalle devrait être de taille >= 10^6 pour qu'on soit
+vraiment tranquille.
+
+
+[SUDO]>>> conseil poste 4
+Plus on choisit des grands nombres premiers p1, p2, ... plus c'est facile 
+de "bien viser" et d'obtenir une valeur de q faible à la fin.  La solution 
+de facilité consiste à choisir des p1, p2, ... de 20 bits (pas besoin de 
+s'embêter à fabriquer leur certificat...) mais alors on se retrouver avec 
+un q qui n'est pas forcément si petit que ça.
+
+
+[SUDO]>>> conseil poste 4
+Mais on peut aussi commencer par produire une liste de facteurs premiers de 
+60 bits environ (munis de leur certificat !) en multipliant entre eux 3 
+nombres premiers de 20 bits et en ajoutant un.  Bien sûr, il faut tester 
+si le résultat est premier.
+
+
+[SUDO]>>> conseil poste 4
+Dans tous les cas, on risque de se retrouver à devoir fabriquer un 
+certificat pour un nombre q de taille modeste (disons <= 100 bits) alors
+qu'on ne connaît pas la factorisation de p-1.  Et dans ce cas-là, il n'y a
+pas 50 000 solutions : il faut factoriser p-1...  Vu les tailles qui sont
+en jeux, la "méthode rho" est la solution de choix.  Ce n'est pas ultra-dur
+à implanter.  Sinon, on peut toujours utiliser du code sur étagère... 
+
+
+
+
+Flag Isir :
+
+
+Salut,
+
+Bon, en fait il y a un gros problème avec le sas pour la nouvelle salle ZRR.
+
+Le stagiaire qui bossait dessus a visiblement très mal compris ce qu'on lui 
+avait demandé.  Au lieu de mettre en place un système qui authentifie vraiment 
+les utilisateurs agrémentés comme nous en avions discuté, voici ce qu'il a 
+fait en réalité (soupir).
+
+L'utilisateur doit saisir non pas une, mais QUATRE données secrètes ---
+parce que, a-t-il osé affirmer avec un grand sourire, c'est ``quatre fois
+plus sûr comme ça''...  Les quatre "clefs" sont à entrer en hexadécimal.
+
+La serrure se déverrouille si les quatres clefs : 
+1. sont toutes différentes
+2. commencent par le nom de l'utilisateur
+3. finissent par la chaîne de caractères "h4ckm0d3" 
+4. ont toutes la même empreinte par la fonction de hachage MD5
+
+Il semble que cette absurdité viennent d'une grande confusion entre MAC et
+fonction de hachage.  Pour te donner une idée du niveau, le stagiaire a 
+conclut sa présentation en bombant le torse et en affirmant crânement que
+(je cite) ``puisque les 4 clefs doivent avoir la même empreinte, le système
+offre 4x plus de résistance à la contrebande''.
+
+Bref, nous allons devoir tout refaire, mais en attendant, c'est comme ça.
+
+Amicalement,
+
+
+ conseil zrr
+Avez-vous trouvé la description de son fonctionnement ?
+
+[SUDO]>>> conseil zrr
+Il y a un programme de recherche de collision quelque part sur le campus.
+
+[SUDO]>>> conseil zrr
+OK, on ne va pas vous décourager ; il est caché au bâtiment Atrium.
+
+[SUDO]>>> conseil zrr
+Pour s'en sortir, il faut absolument visualiser le principe général de 
+fonctionnement de la fonction de hachage : la fonction de compression
+traite les blocs de message les uns après les autres.  Plus précisément, 
+le message à hacher s'écrit M = M_0 || M_1 || M_2 || ... et on pose :
+    h[-1]  = IV
+    h[i+1] = F(h[i], M_i)
+La dernière valeur h[] produite est l'empreinte du message M.  Dans ces 
+indications, on note :
+    [h_1] ---X----> [h_2]
+pour indiquer que, partant de l'état interne h_1, le fait de traiter la séquence
+de blocs X aboutit à un nouvel état interne h_2.
+
+
+[SUDO]>>> conseil zrr
+Le programme de recherche de collision fonctionne de la façon suivante : 
+- Il lit un "fichier préfixe" (éventuellement vide), dont la taille doit être
+  un multiple de la taille des blocs.
+
+- Le préfixe est haché, ce qui aboutit à une valeur de l'état interne h_prefix:
+      [IV] ---Prefix---> [h_prefix] 
+
+- À partir de là, un algorithme de recherche de collision est lancé. Cet
+  algorithme produit deux séquences de deux blocs chacunes, (A_0, A_1) et
+  (B_0, B_1), avec la propriété suivante :
+      h_prefix ---A_0---> ??? ---A_1---> h_coll
+      h_prefix ---B_0---> ??? ---B_1---> h_coll
+Du coup, on a la collision :
+    MD5(prefixe || A) == MD5(prefixe || B).
+Notez que l'utilitaire n'inclut pas automatiquement le prefixe dans les
+deux fichiers qu'il produit.
+
+
+[SUDO]>>> conseil zrr
+Pour mettre son nom d'utilisateur au début, il suffit de produire un préfixe
+(de la bonne taille) qui commence par son nom d'utilisateur, et qui finisse
+par n'importe quoi.
+
+
+[SUDO]>>> conseil zrr
+Pour mettre "h4ckm0d3" à la fin, ce n'est pas beaucoup plus compliqué.  L'astuce,
+c'est qu'une fois qu'on a deux messages qui collisionnent, on peut les recycler
+en rajoutant ce qu'on veut après.  En effet, on a :
+    [IV] ---Prefix---> [h_prefix] ---A_0---> ??? ---A_1---> [h_coll]
+    [IV] ---Prefix---> [h_prefix] ---B_0---> ??? ---B_1---> [h_coll]
+
+Comme, de façon bien commode, les chaines : (Prefix || A) et (Prefix || B) ont
+une taille qui est un multiple de la taille du bloc, tout ce qu'on pourrait 
+rajouter après va aller dans un nouveau bloc, et ne va donc pas perturber la
+collision :
+    [IV] ---Prefix---> [h_prefix] ---A---> [h_coll] ---Suffix---> [h_suffix]
+    [IV] ---Prefix---> [h_prefix] ---B---> [h_coll] ---Suffix---> [h_suffix]
+Notez que le mécanisme de padding va entrer en action dans le suffixe, mais
+que ça n'est pas un problème.
+
+
+[SUDO]>>> conseil zrr
+La partie un peu plus délicate consiste à produire non pas DEUX fichiers qui
+collisionnent, mais QUATRE.  Pour cela, il faut utiliser la technique suivante,
+inventée par Antoine Joux en 2004.  Partant d'une valeur de l'état interne
+quelconque (disons h_0), on trouve une première collision :
+    [h_0] ---A---> [h_1]
+    [h_0] ---B---> [h_1]
+Puis, partant de h_1, on trouve une deuxième collision :
+    [h_1] ---C---> [h_2]
+    [h_1] ---D---> [h_2]
+On a donc :
+    [h_0] ---A---> [h_1] ---C---> [h_2]
+    [h_0] ---A---> [h_1] ---D---> [h_2]
+    [h_0] ---B---> [h_1] ---C---> [h_2]
+    [h_0] ---B---> [h_1] ---D---> [h_2]
+Partant de l'état interne h_0, on a obtenu 4 séquences de 4 blocs qui
+aboutissent au même état interne h_2 : AC, AD, BC, BD.
+
+Concrètement, h_0 est l'état interne obtenu après avoir traité le préfixe.
+Pour que l'utilitaire de recherche de collision cherche une collision à partir
+de h_1, il faut lui donner un nouveau préfixe qui aboutisse à h_1. On peut lui
+donner, par exemple, (Prefix || A).  Une fois qu'on a obtenu la 4-collision,
+on peut rajouter "h4ckm0d3" à la fin des 4 messages qui collisionnent.
+
+
+[SUDO]>>> conseil zrr
+C'est tout !
+
+
+
+
+FLAG Atrium 1er étage : 
+conseil terminal
+Si on essaye de parser tout le bullshit qui s'affiche en mode recovery, on
+doit pouvoir réussir à inférer qu'il y a un utilisateur nommé MKT01 qui a
+un mot de passe (qu'on ne connaît pas).  Le système stocke l'empreinte de
+ce mot de passe calculée avec la fonction "CRC64-ISO".
+
+
+[SUDO]>>> conseil terminal
+Il faut trouver une préimage pour la fonction CRC64-iso, qui a une sortie 
+de... 64 bits (on aurait pu le deviner !).  Une recherche exhaustive n'est
+pas envisageable, car vous n'avez pas les moyens de faire 2**64 opérations.
+Il va donc falloir "attaquer" la fonction.
+
+
+[SUDO]>>> conseil terminal
+On peut trouver sur internet DES descriptions (pluriel) de plusieurs
+versions CRC64.  Il y en a même tout un catalogue !  Des modules écrits
+dans différents langages ne calculent pas la même chose, même lorsqu'ils
+sont censés évaluer la même fonction... (soupir).  Toutes les version 
+reposent sur le même principe mais avec des constantes différentes et
+de petites variations ici où là.  La lecture de
+
+      http://www.ross.net/crc/download/crc_v3.txt 
+
+est recommandée.  La fonction qui est utilisée ici ressemble à la version 
+"iso" (définie dans le standard ISO/IEC 3309:1993), mais elle n'est pas
+complètement identique.
+
+
+[SUDO]>>> conseil terminal
+Voici une description précise de la fonction implantée ici.  L'entrée
+est une chaîne de bits de taille arbitraire, qui est vue comme les
+coefficients d'un polynôme sur GF(2)[x]. Par exemple, 10111 en binaire
+correspond au polynôme x^4 + x^2 + x + 1.  Notons P le polynôme donné
+en entrée.  La sortie de la fonction est une chaîne de 64 bits qui code
+les coefficients de (x^64 * P(x)) % Q(x), où Q(x) est le polynôme
+x^64 + x^4 + x^3 + x + 1.
+
+
+[SUDO]>>> conseil terminal
+Pour fixer les esprits, l'implantation utilisée par UGLIX est équivalente
+au bout de code suivant :
+        
+        def crc64(m : bytes) -> bytes:
+            i = int.from_bytes(m, byteorder='big')
+            i <<= 64
+            k = i.bit_length()
+            Q = 0x1000000000000001b
+            while k > 64:
+                i ^= Q << (k - 65)
+                k = i.bit_length()
+            return i.to_bytes(8, byteorder='big')
+
+
+[SUDO]>>> conseil terminal
+On nous impose la sortie de la fonction, qui est un polynôme S(x) de degré
+63.  On veut trouver une entrée P(x) telle que :
+
+        x^64 * P(x) == R(x)*Q(x) + S(x)                                (*)
+
+Autrement dit, S(x) est le reste de la division euclidienne de x^64 P(x)
+par Q(x).
+
+
+[SUDO]>>> conseil terminal
+Pour s'en sortir, il suffit de travailler "modulo Q(x)".  Comme Q(x) est
+irreductible, l'anneau quotient GF(2)[X] / < Q(x) > est en réalité "le" 
+corps fini à 2**64 éléments.  Là-dedans, l'équation (*) devient
+
+        (x^4 + x^3 + x + 1) * P(x) == S(x)
+
+Comme on est dans un corps, alors (x^4 + x^3 + x + 1) possède un inverse
+(qu'on va noter I(x)).  Il suffit alors de poser P(x) <-- I(x) * S(x).
+
+
+[SUDO]>>> conseil terminal
+C'est tout !
+
+
+USER=MKT01
+Le hash du password qu'on cherche :
+HASHPWD= 52052ce33bd16914
+
+
+
+
+
+
+
+Rq : on peut récupérer tous les flags dans l'atrium au rez de chaussée
+
+
+Flag1 : register:315:1|64e5d0688eb26f5dca605ea0f7d32f9ff8772062ded3db867cb67e1927a02b13
+
+J'ai raté 2 Flags que je n'ai pas copié : pki.tutorial:315:1|2511b92e04978a0672b0dac55e19604377c6b4731ff036320053da4fbb502204               poupeaup          2025-03-03 16:49:57
+pki.upload:315:1|1380d5905d0d568d69076d53c7d4e8b28a1b9603e8c7dfc2ba994d7fe47e74b2  
+
+Flag2 : power.on:315:1|caa5cc7f281b9545375472633ed0a130cd02c10a7136661040a42d082ebcb9a7
+
+Flag3 : dict.atk:315:1|eb8ca096cf05f4ed17d4f8f5af269caff78c0d30dec3b7fb8fa60affea94872c
+
+Flag4 chap.login:315:1|5453131c631c8f1df3861bb13c36116958c0b833c853008f1f823e63c19669f5
+
+Flag5 pk.login:315:1|e84af1b2c7fa827c6fce8503e73d3008fd0c9de1deaacab5df02e736bd63f0e2
+
+Flag6 pki.cert:315:1|0b0ed092a2825deab09abe340795db3254009919d94ab468d9477716095732dd
+
+
+Flag7 tme.generator:315:1|291f9a9008b91ce67b57a0a1df1eb424abe31ca0cd5d3c93b155fa87dd8d4ad7
+
+Flag8 tme.primitive:315:1|18bbb54bbf7c3da0dae023814c694001dcf756b22c04f94969eea614b7946808
+
+Flag9 rsa.keygen:315:1|7a85f244a222499ab0c150ab4c660180081f7c793897bf1de7d4a1c04ab4dcc4
+
+
+Flag10 rsa.reduction:315:1|70cd4caa7daf31b43b9ad8a6743e2db1a754559ade139fc49f2368e42088c33a
+
+
+Flag11 : secure.vault:315:1|f6171a94a0f09283ec5162ab945614201d1dacf817f6d8fd5e89473f040ecdf8
+
+
+
+
+
+Flag 12 : hybrid:315:1|595d5b6df7f043bb923463e679ec901c8ea53db61a0e817635c6da390d82d3ee
+
+
+Flag 13 : web.of.trust:315:1|1b381733a8bb5d1e1701a2c67aa46d5274ce864a4669bcc181c213876872557c
+
+Flag 14 : rsa.crt:315:1|78cebdc56f92159c56c39f61d6590b8ead53794a0c82dcfc3255fef576c9b2ac
+
+Flag15 : rsa.shared:315:1|200bed8223d20d6493d2a496a132bafbdd9500152a7984a6dea4b6bdd09f04d8
+
+Flag16 : secret.sharing:315:1|cbf7887dec00a302ea157c053b9796343a6084ec72e70648eddd66214da6b09c
+
+Flag17 : credit.fraud:315:1|85dbe650357a76131a996e5a4268442dd6962a4a93f4986b76114a33ac9ae7ac
+
+Flag 18 : multi.lamport:315:1|72193bb961b024809e6909a512472a56d531e69aee8f544283ea2ba660f8ebf8
+
+Flag19 : tme.pratt:315:1|6b5ab3b25c75c9a7a2b88a0947b011e3b261dc74d246cf5b911c73ff5329a10d
+
+Flag20 : crc64.preimage:315:1|051cbd653cf42d4954dbe7d31cbd9b8c2fc99e7bf89c4db2e49cca755987c1df
+

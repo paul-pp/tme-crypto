@@ -1,0 +1,19 @@
+
+
+Site de l'installation/mise en route + faq :
+https://m1.tme-crypto.fr
+
+
+espace perso : https://m1.tme-crypto.fr/home
+
+
+
+Lancement :
+source venv/bin/activate
+python3 /Users/paul/Documents/MAIN4/s2/tme/instal/client.py
+
+
+Jeu : ne pas hésiter à utiliser la commande conseil
+
+récupération de la sauvegarde depuis la salle des "???" sur le plan (au nord puis à l'ouest du spawn) : 
+    terminal
