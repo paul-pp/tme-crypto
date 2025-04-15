@@ -1,0 +1,1 @@
+{"cardholder": "Daniel Johnson", "card-number": "0607-4186-0573-9342", "bank-name": "Leblanc, Gibson and Rodgers", "currency": "EUR", "amount": 484}
